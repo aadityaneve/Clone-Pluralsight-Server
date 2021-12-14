@@ -1,0 +1,27 @@
+{
+    "name": "clone-pluralsight",
+    "version": "1.0.0",
+    "description": "-----\r ### For Educational And Learning Purpose*\r Project: Make a clone of Pluralsight website.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "server": "nodemon ./src"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aadityaneve/Clone-Pluralsight.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/aadityaneve/Clone-Pluralsight/issues"
+    },
+    "homepage": "https://github.com/aadityaneve/Clone-Pluralsight#readme",
+    "dependencies": {
+        "axios": "^0.24.0",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "mongoose": "^6.1.1"
+    }
+}
